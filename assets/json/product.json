@@ -1,0 +1,76 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "image": "meow-mix1.png",
+            "name": "Meow Mix",
+            "price": 14,
+            "category": "original Choise",
+            "color": "0xFFFF5722",
+            "description": "With the delicious flavors of chicken, turkey, salmon, and ocean fish, cats ask for Meow Mix® Original Choice cat food by name. It's the perfect mix to help you connect with your cat over a healthy meal."
+        },
+        {
+            "id": 2,
+            "image": "authority1.png",
+            "name": "Authority",
+            "price": 15,
+            "color": "0xFF311B92",
+            "category": "Gut Health",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "image": "meow-mix2.png",
+            "name": "Meow Mix",
+            "color": "0xFFFF5722",
+            "price": 13.5,
+            "category": "Kitten Li'l Nibbles",
+            "description": "The tasty smaller kibbles in our Kitten Li'l Nibbles® dry cat food contain all essential nutrients needed to help kittens grow up healthy and happy. High-quality protein and essential fatty acids help support muscle growth and healthy brain development. Wholesome ingredients and irresistible flavors make this more than just a meal...it's Meow Mix Mealtime!"
+        },
+        {
+            "id": 4,
+            "image": "royal-canin1.png",
+            "name": "Royal Canin",
+            "color": "0xFF9E9E9E",
+            "price": 15,
+            "category": "Hair & Skin",
+            "description": "ROYAL CANIN® Hair & Skin Care is an exclusive complex of nutrients that help to support the skin's barrier role. It contains high quality proteins, including specific amino acids, to maintain healthy hair growth and skin renewal.ROYAL CANIN® Hair & Skin Care includes an essential combination of omega-3 and omega-6 fatty acids for beneficial effects on skin health and coat condition. The formula also contains soya and borage oil (rich in gamma linolenic acids) as well as fish oil to help your cat maintain a healthy, glossy coat.Additionally, ROYAL CANIN® Hair & Skin Care has been designed with a number of other key nutrients, such as B-vitamins, amino acids, zinc and copper. Together, these nourish your cat's skin and fur by supporting the skin's barrier function and maintaining optimal skin beauty as well as hair strength and density.The exclusive use of ROYAL CANIN® Hair & Skin Care has been clinically proven to significantly increase coat shine after just 21 days of use."
+        },
+        {
+            "id": 5,
+            "image": "meow-mix3.png",
+            "name": "Meow Mix",
+            "color": "0xFFFF5722",
+            "price": 15,
+            "category": "Indoor Health",
+            "description": "Meow Mix® Indoor Health dry cat food has been specially formulated to help your indoor cat maintain a healthy weight when fed according to the feeding directions. With wholesome ingredients and irresistible taste, no wonder it's the only one that cats ask for by name!!"
+        },
+        {
+            "id": 6,
+            "image": "authority2.png",
+            "name": "Authority",
+            "color": "0xFF2196F3",
+            "price": 15,
+            "category": "Kitten",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "image": "authority3.png",
+            "name": "Authority",
+            "category": "Hairball Control + Healthy Weight",
+            "price": 15,
+            "color": "0xFF311B92",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "image": "authority4.png",
+            "name": "Authority",
+            "category": "Sensitive Stomach + Skin",
+            "price": 15,
+            "color": "0xFF311B92",
+            "description": ""
+        }
+    ]
+}
