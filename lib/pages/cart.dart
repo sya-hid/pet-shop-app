@@ -44,16 +44,19 @@ class _CartPageState extends State<CartPage> {
           const SizedBox(height: 20),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
-            child: Text.rich(TextSpan(children: [
-              TextSpan(
-                  text: '${cartProvider.carts.length} ',
-                  style: poppin.copyWith(
-                      fontSize: 14, fontWeight: FontWeight.w600)),
-              TextSpan(
-                  text: cartProvider.carts.length > 1 ? ' Items' : ' Item',
-                  style: poppin.copyWith(
-                      fontSize: 14, fontWeight: FontWeight.w400)),
-            ])),
+            child: cartProvider.carts.isNotEmpty
+                ? Text.rich(TextSpan(children: [
+                    TextSpan(
+                        text: '${cartProvider.carts.length} ',
+                        style: poppin.copyWith(
+                            fontSize: 14, fontWeight: FontWeight.w600)),
+                    TextSpan(
+                        text:
+                            cartProvider.carts.length > 1 ? ' Items' : ' Item',
+                        style: poppin.copyWith(
+                            fontSize: 14, fontWeight: FontWeight.w400)),
+                  ]))
+                : Container(),
           ),
           const SizedBox(height: 20),
           Expanded(
