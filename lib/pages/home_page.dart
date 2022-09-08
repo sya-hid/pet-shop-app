@@ -144,7 +144,10 @@ class _HomePageState extends State<HomePage> {
                       hintText: 'Search food, accesoris, etc ...',
                       hintStyle:
                           poppin.copyWith(color: deepPurple.withOpacity(0.6)),
-                      prefixIcon: const Icon(Icons.search),
+                      prefixIcon: const Icon(
+                        Icons.search,
+                        color: deepPurple,
+                      ),
                       prefixIconColor: deepPurple),
                 ),
               ),
