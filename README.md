@@ -20,3 +20,4 @@ https://youtu.be/WifMFYoSvrc
 <img src="assets/preview/detail.png" alt="Detail" width="200">
 <img src="assets/preview/cart.png" alt="Cart" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.pet-shop-app"/>  
